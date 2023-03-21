@@ -1,7 +1,7 @@
 export default [
   {
     id: "0",
-    name: "PVR MSR Elements Mall Bengaluru",
+    name: "INOX: South City, Kolkata",
     showtimes: [
       "9:00AM",
       "10:25AM",
@@ -67,7 +67,7 @@ export default [
   },
   {
     id: "2",
-    name: "PVR Vaishnavi Sapphire Bengaluru",
+    name: "Cinepolis: Acropolis Mall, Kolkata",
     showtimes: [
       "9:00AM",
       "10:25AM",
@@ -133,7 +133,7 @@ export default [
   },
   {
     id: "3",
-    name: "PVR Orion Bengaluru",
+    name: "Hind INOX: Kolkata",
     showtimes: [
       "9:00AM",
       "10:25AM",
@@ -199,7 +199,7 @@ export default [
   },
   {
     id: "4",
-    name: "PVR Aura Park Square Bengaluru",
+    name: "INOX: City Center, Salt Lake",
     showtimes: [
       "9:00AM",
       "10:25AM",
@@ -265,7 +265,7 @@ export default [
   },
   {
     id: "5",
-    name: "PVR Phoenix Marketcity Whitefield Road Bengaluru",
+    name: "INOX: Forum Mall, Elgin Road",
     showtimes: [
       "9:00AM",
       "10:25AM",
@@ -331,7 +331,7 @@ export default [
   },
   {
     id: "6",
-    name: "PVR The Cinema GT World Bengaluru",
+    name: "Cinepolis: Lake Mall, Kolkata",
     showtimes: [
       "9:00AM",
       "10:25AM",

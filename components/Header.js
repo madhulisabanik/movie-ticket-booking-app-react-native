@@ -37,7 +37,7 @@ const Header = () => {
       <ImageBackground
         style={{ aspectRatio: 5 / 2, height: 170 }}
         source={{
-          uri: "https://originserver-static1-uat.pvrcinemas.com/newweb/movies/big/1460x600/HO00020779.jpg",
+          uri: "https://media.wdwnt.com/2023/02/peter-pan-wendy-poster-ftd.jpg",
         }}
       >
         <Pressable
@@ -53,7 +53,7 @@ const Header = () => {
           }}
         >
           <Text style={{ fontSize: 14, fontWeight: "500", color: "gray" }}>
-            Releasing in 1 days
+            Releasing on 28th April
           </Text>
 
           <View
@@ -66,7 +66,7 @@ const Header = () => {
           >
             <View>
               <Text style={{ fontSize: 16, fontWeight: "bold" }}>
-                VIKRANT RONA
+                Peter Pan & Wendy
               </Text>
               <Text
                 style={{
@@ -76,7 +76,7 @@ const Header = () => {
                   marginTop: 4,
                 }}
               >
-                U/A • KANNADA
+                U/A • ENGLISH
               </Text>
             </View>
 
@@ -91,12 +91,12 @@ const Header = () => {
               <Text
                 style={{ fontSize: 14, fontWeight: "500", textAlign: "center" }}
               >
-                BOOK
+                COMING SOON
               </Text>
             </Pressable>
           </View>
           <Text style={{ marginTop: 8, fontSize: 15, fontWeight: "500" }}>
-            Fantasy, thriller, action
+            Fantasy, Adventure, Action
           </Text>
         </Pressable>
       </ImageBackground>
